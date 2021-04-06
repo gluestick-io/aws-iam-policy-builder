@@ -1,0 +1,17 @@
+{
+  "name": "aws-iam-policy-builder",
+  "version": "0.1.0",
+  "description": "AWS IAM Policy Builder in behaviour definition style",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "yickling",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
